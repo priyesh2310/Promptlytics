@@ -1,7 +1,5 @@
 
 # 📊 Promptlytics – Ask Anything from Your CSV using AI
-# 📊 Promptlytics – Ask Anything from Your CSV using AI
-
 [🔗 Try the Live App](https://promptlytics.streamlit.app/)
 
 Promptlytics is an AI-powered web application built with **Streamlit** that enables users to upload CSV files and ask natural language questions to derive actionable insights, perform analytics, and visualize data—**without writing a single line of code**.
