@@ -1,6 +1,3 @@
-Promptlytics
-
-Website = https://promptlytics.streamlit.app/
 
 # 📊 Promptlytics – Ask Anything from Your CSV using AI
 # 📊 Promptlytics – Ask Anything from Your CSV using AI
