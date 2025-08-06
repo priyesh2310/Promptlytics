@@ -7,6 +7,7 @@ Promptlytics is an AI-powered web application built with **Streamlit** that enab
 It uses the **Mistral 7B** large language model via **OpenRouter API** to understand user questions and respond with accurate summaries, statistics, and visualizations.
 
 ---
+<img width="949" height="719" alt="Image" src="https://github.com/user-attachments/assets/c94de30e-c43b-4eeb-ad62-29cd14ec1acf" />
 
 ## 🚀 Features
 
